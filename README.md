@@ -1,5 +1,13 @@
 # OSTENSIBLE-PAINTING-USING-HAND-MOTION-AND-COMPUTER-VISION-BASED-ON-OPENCV
 MADE BY : VAISAKH SRIRAM
+
+> Based on OpenCV
+
+> set_color_range.py allows to set the color range required to detect the object to be tracked
+
+> paint.py tracks the object its color was set and enables the painting
+
+
 # Collaborators
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
