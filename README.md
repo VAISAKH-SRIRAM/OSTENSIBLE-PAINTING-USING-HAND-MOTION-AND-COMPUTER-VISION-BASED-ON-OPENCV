@@ -3,7 +3,7 @@ MADE BY : VAISAKH SRIRAM
 
 > Based on OpenCV
 
---> paint.py tracks the object its color will be set and enables the painting
+> paint.py tracks the object its color will be set and enables the painting
 
 
 # Collaborators
